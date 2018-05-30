@@ -1,0 +1,4 @@
+Demo5.txt
+This is to test git -a -m "multifile commit"
+
+Amend command for modifying last commit
