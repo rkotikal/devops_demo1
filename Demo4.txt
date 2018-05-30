@@ -2,3 +2,4 @@ This is to test multifile commit
 
 Demo4.txt
 
+Add more text
