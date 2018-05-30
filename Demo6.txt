@@ -1,0 +1,1 @@
+Amend command for modifying last commit
